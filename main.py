@@ -13,12 +13,14 @@ while True:
 	
 	content = []
 	
+	#finds all div tags and loops through them
 	for div in divs:
 		rows = div.findAll('tr')
 		for row in rows:
+			#looping through all the row in the singular div
 			content.append(row.text.replace('\n', '')[:-115])
-			#print(type(row))
 	
+	#prints very specifc portion of the array to find the price
 	print('the value of ' + content[1][1:4]+ ' is '+ content[1][27:35])
 	time.sleep(60)	
 	
