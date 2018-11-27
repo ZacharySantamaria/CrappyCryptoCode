@@ -2,6 +2,10 @@ import requests
 from bs4 import BeautifulSoup as bs4
 import time
 
+#We should add other crypto coins in functions
+#formatt in a better way.
+
+
 while True:
 	#Grabbing url with requests
 	page = requests.get('https://www.coinmarketcap.com')
