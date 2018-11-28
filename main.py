@@ -13,7 +13,7 @@ def zcash():
 
 	pass
 
-def loadPage():
+def loadPageCM():
 
 	#Grabbing url with requests
 	page = requests.get('https://www.coinmarketcap.com')
@@ -36,7 +36,7 @@ def loadPage():
 
 while True:
 	
-	content = loadPage()
+	content = loadPageCM()
 	bitcoin(content)
 	time.sleep(60)	
 	
