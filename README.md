@@ -4,8 +4,8 @@ A program designed to find crypto prices from webscrapping popular websites. We 
 
 ## Prerequisites
 
-BeautifulSoup4 
-requests
+* BeautifulSoup4 
+* requests
 
 ## Installing 
 
