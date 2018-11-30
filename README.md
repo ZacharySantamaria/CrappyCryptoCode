@@ -14,3 +14,15 @@ The installing processes goes as
 ```
 pip3 install BeautifulSoup4 
 ```
+## Noted to user
+
+I am new and this is my first real project using git. Any feedback will be greatly appreciated
+
+## Notes to self
+
+Things to be completed in order.
+* Find a way to maintain order in the list used incase of further updates it will maintain what is required
+* Find a way to be able to search by name rather than placement
+* Create another function for other sites 
+
+
