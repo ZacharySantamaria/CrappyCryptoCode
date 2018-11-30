@@ -1,10 +1,9 @@
 # Webscraping Crptocurrency Prices
 
-A program designed to find crypto prices from webscrapping popular websites
+A program designed to find crypto prices from webscrapping popular websites. We are using python3 for this project.
 
 ## Prerequisites
 
-python3
 BeautifulSoup4 
 requests
 
