@@ -36,5 +36,5 @@ while True:
 	content = loadPageCM()
 	bitcoin(content)
 	Monero(content)
-	time.sleep(30)	
+	time.sleep(60)	
 	
