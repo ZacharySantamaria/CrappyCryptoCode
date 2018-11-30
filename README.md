@@ -1,4 +1,4 @@
-# Webscraping crpto prices
+# Webscraping Crptocurrency Prices
 
 A program designed to find crypto prices from webscrapping popular websites
 
@@ -10,6 +10,6 @@ requests
 
 ## Installing 
 
-'''
+```
 pip3 install BeautifulSoup4 
-'''
+```
