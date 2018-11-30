@@ -8,7 +8,7 @@ def bitcoin(content):
 
 def Monero(content):
 	#print very specific portion of the content array
-	print('The value of ' + content[11][2:5] + ' is ' + content[11][25:31])
+	print('The value of ' + content[11][2:5] + ' is ' + content[11][23:29])
 
 def loadPageCM():
 	#Grabbing url with requests
@@ -36,5 +36,5 @@ while True:
 	content = loadPageCM()
 	bitcoin(content)
 	Monero(content)
-	time.sleep(60)	
+	time.sleep(30)	
 	
