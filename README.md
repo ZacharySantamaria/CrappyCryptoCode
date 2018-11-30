@@ -16,13 +16,15 @@ pip3 install BeautifulSoup4
 ```
 ## Deployment
 
-To run the script find the main.py file in your terminal and run the command```
+To run the script find the main.py file in your terminal and run the command
+
+```
 python3 main.py
 ```
 
 ## Noted to user
 
-I am new and this is my first real project using git. Any feedback will be greatly appreciated
+I am new and this is my first real project using git. Any feedback will be greatly appreciated.
 
 ## Notes to self
 
