@@ -11,14 +11,14 @@ A program designed to find crypto prices from webscrapping popular websites. We 
 
 Need to installing bs4 and we used the stock imports of requests and time.
 The installing processes goes as
-```
+```bash
 pip3 install BeautifulSoup4 
 ```
 ## Deployment
 
 To run the script find the main.py file in your terminal and run the command
 
-```
+```bash
 python3 main.py
 ```
 
@@ -29,8 +29,8 @@ I am new and this is my first real project using git. Any feedback will be great
 ## Notes to self
 
 Things to be completed in order.
-* Find a way to maintain order in the list used incase of further updates it will maintain what is required
-* Find a way to be able to search by name rather than placement
-* Create another function for other sites 
+- [ ] Find a way to maintain order in the list used incase of further updates it will maintain what is required
+- [ ] Find a way to be able to search by name rather than placement
+- [ ] Create another function for other sites 
 
 
